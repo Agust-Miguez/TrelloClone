@@ -42,3 +42,13 @@ h2 {
         margin: 10px auto;
     }
 }
+
+/* Estilos para Drag and Drop */
+.is-dragging {
+    opacity: 0.5;
+    transform: scale(1.05);
+}
+
+.drag-over {
+    background-color: #e0e0e0;
+}
